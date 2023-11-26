@@ -1,0 +1,19 @@
+C:\Users\User\OneDrive\Документы\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Saadat Form.exe
+C:\Users\User\OneDrive\Документы\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Saadat Form.deps.json
+C:\Users\User\OneDrive\Документы\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Saadat Form.runtimeconfig.json
+C:\Users\User\OneDrive\Документы\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Saadat Form.dll
+C:\Users\User\OneDrive\Документы\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Saadat Form.pdb
+C:\Users\User\OneDrive\Документы\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Form1.resources
+C:\Users\User\OneDrive\Документы\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\Saadat_Form.Properties.Resources.resources
+C:\Users\User\OneDrive\Документы\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\Saadat Form.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\Saadat Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\Saadat Form.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\Saadat Form.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\Saadat Form.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\Saadat Form.dll
+C:\Users\User\OneDrive\Документы\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\refint\Saadat Form.dll
+C:\Users\User\OneDrive\Документы\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\Saadat Form.pdb
+C:\Users\User\OneDrive\Документы\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\Saadat Form.genruntimeconfig.cache
+C:\Users\User\OneDrive\Документы\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\ref\Saadat Form.dll
+C:\Users\User\OneDrive\Документы\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\Saadat_Form.Form3.resources
+C:\Users\User\OneDrive\Документы\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\Saadat_Form.Form2.resources

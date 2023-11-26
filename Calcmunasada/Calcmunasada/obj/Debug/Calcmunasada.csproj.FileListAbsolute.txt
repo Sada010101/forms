@@ -1,0 +1,10 @@
+C:\Users\User\OneDrive\Документы\Calcmunasada\Calcmunasada\bin\Debug\Calcmunasada.exe.config
+C:\Users\User\OneDrive\Документы\Calcmunasada\Calcmunasada\bin\Debug\Calcmunasada.exe
+C:\Users\User\OneDrive\Документы\Calcmunasada\Calcmunasada\bin\Debug\Calcmunasada.pdb
+C:\Users\User\OneDrive\Документы\Calcmunasada\Calcmunasada\obj\Debug\Calcmunasada.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Calcmunasada\Calcmunasada\obj\Debug\Calcmunasada.Form1.resources
+C:\Users\User\OneDrive\Документы\Calcmunasada\Calcmunasada\obj\Debug\Calcmunasada.Properties.Resources.resources
+C:\Users\User\OneDrive\Документы\Calcmunasada\Calcmunasada\obj\Debug\Calcmunasada.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\Calcmunasada\Calcmunasada\obj\Debug\Calcmunasada.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Calcmunasada\Calcmunasada\obj\Debug\Calcmunasada.exe
+C:\Users\User\OneDrive\Документы\Calcmunasada\Calcmunasada\obj\Debug\Calcmunasada.pdb
